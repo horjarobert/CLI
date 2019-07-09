@@ -1,0 +1,54 @@
+C:\Users\Roby\source\repos\CLI\CLI\bin\Debug\CLI.exe.config
+C:\Users\Roby\source\repos\CLI\CLI\bin\Debug\CLI.exe
+C:\Users\Roby\source\repos\CLI\CLI\bin\Debug\CLI.pdb
+C:\Users\Roby\source\repos\CLI\CLI\obj\Debug\CLI.CLI.resources
+C:\Users\Roby\source\repos\CLI\CLI\obj\Debug\CLI.Properties.Resources.resources
+C:\Users\Roby\source\repos\CLI\CLI\obj\Debug\CLI.csproj.GenerateResource.cache
+C:\Users\Roby\source\repos\CLI\CLI\obj\Debug\CLI.csproj.CoreCompileInputs.cache
+C:\Users\Roby\source\repos\CLI\CLI\obj\Debug\CLI.exe
+C:\Users\Roby\source\repos\CLI\CLI\obj\Debug\CLI.pdb
+C:\Users\Roby\source\repos\CLI\CLI\obj\Debug\CLI.usual.resources
+C:\Users\Roby\Desktop\CLI\CLI\obj\Debug\CLI.csprojResolveAssemblyReference.cache
+C:\Users\Roby\Desktop\CLI\CLI\obj\Debug\CLI.CLI.resources
+C:\Users\Roby\Desktop\CLI\CLI\obj\Debug\CLI.Properties.Resources.resources
+C:\Users\Roby\Desktop\CLI\CLI\obj\Debug\CLI.usual.resources
+C:\Users\Roby\Desktop\CLI\CLI\obj\Debug\CLI.csproj.GenerateResource.cache
+C:\Users\Roby\Desktop\CLI\CLI\obj\Debug\CLI.csproj.CoreCompileInputs.cache
+C:\Users\Roby\Desktop\CLI\CLI\obj\Debug\CLI.exe
+C:\Users\Roby\Desktop\CLI\CLI\obj\Debug\CLI.pdb
+C:\Users\Roby\Desktop\CLI\CLI\bin\Debug\CLI.exe.config
+C:\Users\Roby\Desktop\CLI\CLI\bin\Debug\CLI.exe
+C:\Users\Roby\Desktop\CLI\CLI\bin\Debug\CLI.pdb
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\bin\Debug\CLI.exe.config
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\bin\Debug\CLI.exe
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\bin\Debug\CLI.pdb
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.csprojResolveAssemblyReference.cache
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.CLI.resources
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.Properties.Resources.resources
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.usual.resources
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.csproj.GenerateResource.cache
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.csproj.CoreCompileInputs.cache
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.exe
+C:\Users\Roby\Desktop\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.pdb
+D:\Programming Projects\C#\Level 3\CLI\CLI\bin\Debug\CLI.exe.config
+D:\Programming Projects\C#\Level 3\CLI\CLI\bin\Debug\CLI.exe
+D:\Programming Projects\C#\Level 3\CLI\CLI\bin\Debug\CLI.pdb
+D:\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.csprojAssemblyReference.cache
+D:\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.CLI.resources
+D:\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.Properties.Resources.resources
+D:\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.usual.resources
+D:\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.csproj.GenerateResource.cache
+D:\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.exe
+D:\Programming Projects\C#\Level 3\CLI\CLI\obj\Debug\CLI.pdb
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\bin\Debug\CLI.exe.config
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\bin\Debug\CLI.exe
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\bin\Debug\CLI.pdb
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\obj\Debug\CLI.csprojAssemblyReference.cache
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\obj\Debug\CLI.CLI.resources
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\obj\Debug\CLI.Properties.Resources.resources
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\obj\Debug\CLI.usual.resources
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\obj\Debug\CLI.csproj.GenerateResource.cache
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\obj\Debug\CLI.csproj.CoreCompileInputs.cache
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\obj\Debug\CLI.exe
+D:\Programming Projects\pro\C#\Level 3\CLI\CLI\obj\Debug\CLI.pdb
