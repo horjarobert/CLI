@@ -1,5 +1,7 @@
 --- CLI (Command Line Interface) for 16 daily applications --
 
+# Demo #
+
 ![CLI](https://github.com/horjarobert/CLI/blob/master/CLI/CLI.PNG)
 ***
 
