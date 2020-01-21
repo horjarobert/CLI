@@ -36,7 +36,7 @@ For each command I have in background a .bat file, a simple one where start the 
 
 # 5.Conclusion #
 
-This project was made for personal use, but if you have parents/grandparents/brothers who can't find those commands in Windows, this app will be awesome choice to hang the voice 'Hei, ... where is Paint/where is Facebook homepage/where ... ???'
+This project was made for personal use, but if you have parents/grandparents/brothers who can't find those commands in Windows, this app will be awesome choice to hang the voice 'Hey, ... where is Paint/where is Facebook homepage/where ... ???'
 ***
 
 ### <em>Enjoy it!</em> ###
